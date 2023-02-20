@@ -608,7 +608,7 @@ const allData = users.map((Element) => {
     <img src="${Element.avatar_url}" class="card-img-top" alt="${Element.bmizerany}">
                 <div class="card-body">
                   <h5 class="card-title">${Element.login}</h5>
-                  <a class="card-text d-block text-decoration-none text-dark " target="_blank" href="https://github.com/mukhammadazam" >${Element.html_url}</a>
+                  <a class="card-text d-block text-decoration-none text-dark " target="_blank" href="${Element.html_url}" >${Element.html_url}</a>
                   <span>${Element.id}</span>
                 </div>
               </div>`
