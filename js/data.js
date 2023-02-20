@@ -1,12 +1,12 @@
 const users = [
     {
-        "login": "mojombo",
+        "login": "muhammadazam",
         "id": 1,
         "node_id": "MDQ6VXNlcjE=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/115442072?v=4",
         "gravatar_id": "",
         "url": "https://api.github.com/users/mojombo",
-        "html_url": "https://github.com/mojombo",
+        "html_url": "https://github.com/mukhammadazam",
         "followers_url": "https://api.github.com/users/mojombo/followers",
         "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
         "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
