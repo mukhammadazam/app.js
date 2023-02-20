@@ -1,9 +1,12 @@
-nav{
-  transform: translateY(-100%);
+.db1{
+  /* transform: translateY(-100%); */
     width: 100%;
      z-index:1111;
 }
-.db{
+/* .db{
     transform: translateY(0);
 }
+.bb{
+    display: none;
+} */
 

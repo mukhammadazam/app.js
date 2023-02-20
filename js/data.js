@@ -616,11 +616,12 @@ const allData = users.map((Element) => {
 
 
 row.innerHTML = allData.join("");
-console.log(allData.join(''));
 
-let btn = document.querySelector(".btn");
-let nav = document.querySelector("nav");
+
+let btn = document.querySelector(".bt");
+let nav = document.querySelector("header");
 btn.addEventListener('clikc', function () {
-    nav.classList.add("db");
+    nav.classList.remove("db1");
 
 });
+
