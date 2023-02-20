@@ -617,3 +617,10 @@ const allData = users.map((Element) => {
 
 row.innerHTML = allData.join("");
 console.log(allData.join(''));
+
+let btn = document.querySelector(".btn");
+let nav = document.querySelector("nav");
+btn.addEventListener('clikc', function () {
+    nav.classList.add("db");
+
+});
